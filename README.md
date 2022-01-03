@@ -1,6 +1,7 @@
 # Spring Boot Flight Ticket Sytem
 
 This project is web backend service of airline companies.
+
 The project is using the H2 database.
 
 ### Features it has:
